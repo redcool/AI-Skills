@@ -1,4 +1,4 @@
-AI Skills (opencode, openclaw)
+# AI Skills (opencode, openclaw)
 
 # ReactUnity-ai
 
@@ -11,5 +11,5 @@ AI Skills (opencode, openclaw)
 
 ### 中文
 
-- [安装与初始化指南](./ReactUnity/installRectUnity.md)
-- [样式使用指南](./ReactUnity/ReactUnity_CSS-USAGE.md)
+- [安装与初始化指南](./ReactUnity/installReactUnity_cn.md)
+- [样式使用指南](./ReactUnity/ReactUnity-CSS-USAGE_cn.md)
