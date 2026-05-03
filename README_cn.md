@@ -8,6 +8,7 @@ OpenCode / Claude AI 智能体个人技能库。
 |------|------|----------|
 | **[ai-painter](./ai-painter)** | ComfyUI + SDXL 文生图，支持中文关键词自动翻译，7种质量预设，6种比例。 | `python ai-painter.py --zh "蒸汽朋克飞艇" --out D:\tmp` |
 | **[pixel-forge](./pixel-forge)** | ComfyUI 游戏精灵表生成，透明 PNG + 动画 GIF，多种布局（4×4/2×2/2×3）。 | `python pixel-forge.py --target player --mode player_sheet --zh "catgirl mage"` |
+| **[opencode-char-3view](./opencode-char-3view)** | 角色三视图生成器（正面/侧面/背面），7种风格预设，支持中文描述。 | `python char-3view.py --desc "汉朝战士" --style realistic --zh` |
 | **[opencode-unity-uixml](./opencode-unity-uixml)** | YAML 规格 → Unity UI Toolkit（UXML + USS + C#），MVP 模式，4种内置样式。 | `python unity_uixml_generator.py --spec yaml/login.yaml --out src/` |
 | **[opencode-uiux-uxml](./opencode-uiux-uxml)** | 设计 Token 驱动的 Unity UI Toolkit 生成器，10种设计预设（毛玻璃/极光/赛博/科幻）。颜色/字体/间距/圆角/阴影独立配置。 | `python uxml_generator.py --preset dark_glassmorphism --name LoginView` |
 | **[ReactUnity](./ReactUnity)** | ReactUnity 文档 — Unity WebGL 下 React 开发安装配置与 CSS 使用指南。 | 查看 [ReactUnity](./ReactUnity) 目录 |
@@ -18,6 +19,7 @@ OpenCode / Claude AI 智能体个人技能库。
 AI_SKILLS/
 ├── ai-painter/              ComfyUI 文生图
 ├── pixel-forge/             ComfyUI 精灵表生成
+├── opencode-char-3view/     角色三视图生成
 ├── opencode-unity-uixml/     Unity UI Toolkit 快速原型（YAML 驱动）
 ├── opencode-uiux-uxml/       Unity UI Toolkit 设计系统（Token 驱动）
 ├── ReactUnity/              ReactUnity 文档
