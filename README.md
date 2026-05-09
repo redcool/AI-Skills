@@ -35,5 +35,5 @@ AI_SKILLS/
 
 ## Links
 
-- Repository: [redcool/ReactUnity-ai](https://github.com/redcool/ReactUnity-ai)
-- ReactUnity Core: [redcool/ReactUnity](https://github.com/redcool/ReactUnity)
+- Repository: [redcool/AI-Skills](https://github.com/redcool/AI-Skills)
+- ReactUnity Core: [ReactUnity](https://github.com/ReactUnity/core)

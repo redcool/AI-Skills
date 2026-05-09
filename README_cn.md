@@ -37,5 +37,5 @@ AI_SKILLS/
 
 ## 相关链接
 
-- GitHub 仓库: [redcool/ReactUnity-ai](https://github.com/redcool/ReactUnity-ai)
-- ReactUnity 核心: [redcool/ReactUnity](https://github.com/redcool/ReactUnity)
+- Repository: [redcool/AI-Skills](https://github.com/redcool/AI-Skills)
+- ReactUnity Core: [ReactUnity](https://github.com/ReactUnity/core)
